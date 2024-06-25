@@ -1,0 +1,14 @@
+{
+  "name": "websocket-example",
+  "version": "1.0.0",
+  "description": "Example WebSocket server for Heroku",
+  "main": "App.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.17.1"
+  }
+}
